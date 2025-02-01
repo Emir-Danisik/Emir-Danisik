@@ -24,7 +24,7 @@ Full Stack Dev Building AI Apps<br>
 [![Header](https://github.com/Davronov-Alimardon/Davronov-Alimardon/blob/main/banner.png?raw=true "Header")](https://github.com/Davronov-Alimardon)
 -->
 
-
+<!--
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -35,7 +35,7 @@ Full Stack Dev Building AI Apps<br>
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
+-->
 
 <h2>📊 Github Statistics</h2>
 
