@@ -37,9 +37,13 @@ Full Stack Dev Building AI Apps<br>
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 -->
 
-<h2>📊 Github Statistics</h2>
+
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=emir-danisik" style="height:160px" alt="" />
+-->
+
+<h2>📊 Github Stats</h2>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=emir-danisik" style="height:160px" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emir-danisik" style="height:160px" alt="" />
 </div>
