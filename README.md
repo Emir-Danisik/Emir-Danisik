@@ -45,6 +45,6 @@ Full Stack Dev Building AI Apps<br>
 <h2>📊 Stats</h2>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Emir-Danisik" style="height:160px" alt="Emir-Danisik" />
+  <img src="https://streak-stats.demolab.com?user=Emir-Danisik" style="height:160px" alt="Emir-Danisik" />
 </div>
 
